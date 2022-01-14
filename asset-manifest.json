@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gildedgardenia/static/css/main.073c9b0a.css",
+    "main.js": "/gildedgardenia/static/js/main.af8cb35d.js",
+    "static/js/787.ec5183d7.chunk.js": "/gildedgardenia/static/js/787.ec5183d7.chunk.js",
+    "index.html": "/gildedgardenia/index.html",
+    "main.073c9b0a.css.map": "/gildedgardenia/static/css/main.073c9b0a.css.map",
+    "main.af8cb35d.js.map": "/gildedgardenia/static/js/main.af8cb35d.js.map",
+    "787.ec5183d7.chunk.js.map": "/gildedgardenia/static/js/787.ec5183d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.af8cb35d.js"
+  ]
+}
